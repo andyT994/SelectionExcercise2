@@ -1,0 +1,15 @@
+/Users/andywindy/SelectionExercise2/bin/Debug/net5.0/SelectionExercise2.deps.json
+/Users/andywindy/SelectionExercise2/bin/Debug/net5.0/SelectionExercise2.runtimeconfig.json
+/Users/andywindy/SelectionExercise2/bin/Debug/net5.0/SelectionExercise2.runtimeconfig.dev.json
+/Users/andywindy/SelectionExercise2/bin/Debug/net5.0/SelectionExercise2.dll
+/Users/andywindy/SelectionExercise2/bin/Debug/net5.0/ref/SelectionExercise2.dll
+/Users/andywindy/SelectionExercise2/bin/Debug/net5.0/SelectionExercise2.pdb
+/Users/andywindy/SelectionExercise2/obj/Debug/net5.0/SelectionExercise2.csprojAssemblyReference.cache
+/Users/andywindy/SelectionExercise2/obj/Debug/net5.0/SelectionExercise2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andywindy/SelectionExercise2/obj/Debug/net5.0/SelectionExercise2.AssemblyInfoInputs.cache
+/Users/andywindy/SelectionExercise2/obj/Debug/net5.0/SelectionExercise2.AssemblyInfo.cs
+/Users/andywindy/SelectionExercise2/obj/Debug/net5.0/SelectionExercise2.csproj.CoreCompileInputs.cache
+/Users/andywindy/SelectionExercise2/obj/Debug/net5.0/SelectionExercise2.dll
+/Users/andywindy/SelectionExercise2/obj/Debug/net5.0/ref/SelectionExercise2.dll
+/Users/andywindy/SelectionExercise2/obj/Debug/net5.0/SelectionExercise2.pdb
+/Users/andywindy/SelectionExercise2/obj/Debug/net5.0/SelectionExercise2.genruntimeconfig.cache
